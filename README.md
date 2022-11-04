@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manukrishna27112004
 - 👀 I’m interested in Technology & coding
 - 🌱 I’m currently doing BCA(Bachelor Of Computer Application)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Front-End Development.
 - 📫 How to reach me 
 
 
